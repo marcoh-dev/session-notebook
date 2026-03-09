@@ -4,7 +4,7 @@
 
 branches are used to work on features without affecting the main branch.
 
-### Useful codes
+### Useful codes:
 
 git branch <branchname> -> creates a new branch
 git branch -> lists all branches
